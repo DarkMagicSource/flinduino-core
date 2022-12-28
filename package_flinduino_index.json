@@ -9,12 +9,12 @@
         {
           "name": "Flinduino",
           "architecture": "pic32",
-          "version": "2.1.0",
+          "version": "2.2.0",
           "category": "pic32",
-          "url": "https://github.com/Flinduino/flinduino-core/releases/download/v2.1.0/flinduino-core-master-v2.1.0.zip",
-          "archiveFileName": "flinduino-core-master-v2.1.0.zip",
-          "checksum": "SHA-256:fb3e6a4fbe7fb675168be19c885d29b1e03b8ed46d2384a4dc79b25adbdbcb2b",
-          "size": "7352058",
+          "url": "https://github.com/DarkMagicSource/flinduino-core/releases/download/v2.2.0/flinduino-core-mac-fix-v2.2.0.zip",
+          "archiveFileName": "flinduino-core-mac-fix-v2.2.0.zip",
+          "checksum": "SHA-256:ebfc021950df45feec86035d216050c1477c7ed9cf70979cb530b493d297088a",
+          "size": "7384763",
           "help": {
             "online": "https://flindersuni.atlassian.net/wiki/spaces/FLINDUINO/"
           },
