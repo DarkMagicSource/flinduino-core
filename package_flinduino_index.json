@@ -60,13 +60,6 @@
               "size": "132994414"
             },
             {
-              "url": "https://github.com/chipKIT32/chipKIT-compiler-builds/releases/download/1.43-3/pic32-tools-143-3-Darwin-image.tar.gz",
-              "checksum": "SHA-256:8b7e4c659789f3c930499005c83c91ddaac24f0f80396947a60ce385a66cb05d",
-              "host": "i386-apple-darwin",
-              "archiveFileName": "pic32-tools-143-3-Darwin-image.tar.gz",
-              "size": "132122806"
-            },
-            {
               "url": "https://github.com/CyberCastle/PIC32-MCU-Compiler/releases/download/2.40-1/pic32-tools-Compiler-2.40-Darwin-image.tar.gz",
               "checksum": "SHA-256:5026740266a9f33b475fcdf000be5aadf1c9d189e826335f51d4b7f49235ea0e",
               "host": "x86_64-apple-darwin14",
