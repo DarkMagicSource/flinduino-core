@@ -64,7 +64,7 @@
               "checksum": "SHA-256:5026740266a9f33b475fcdf000be5aadf1c9d189e826335f51d4b7f49235ea0e",
               "host": "x86_64-apple-darwin14",
               "archiveFileName": "pic32-tools-Compiler-2.40-Darwin-image.tar.gz",
-              "size": "48557704"
+              "size": "303804690"
             },
             {
               "url": "https://github.com/chipKIT32/chipKIT-compiler-builds/releases/download/1.43-3/pic32-tools-143-3-Linux32-image.tar.gz",
